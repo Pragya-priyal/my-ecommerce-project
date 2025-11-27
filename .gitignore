@@ -1,0 +1,9 @@
+# Node
+node_modules/
+.env
+
+# React/Vite
+dist/
+build/
+.vscode/
+*.log
